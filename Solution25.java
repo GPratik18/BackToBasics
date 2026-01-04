@@ -1,5 +1,5 @@
 /**
-*Pratik Ghute: 31-12-2025
+*Pratik Ghute: 03-01-2026
 *Solution for 
 *https://codeforces.com/problemset/problem/510/A
 */
